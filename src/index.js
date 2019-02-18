@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import ClickityClick from 
 
 ReactDOM.render(
   <div>
